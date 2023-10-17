@@ -72,7 +72,7 @@ ul{
     justify-content: center;
     align-items: center;
     height: 700px;
-    background-image: url("/pexels-skylar-kang-6044198.jpg");
+    background-image: url("./pexels-skylar-kang-6044198.jpg");
     background-size: 100% 100%;
   }
   #dsa{
@@ -109,7 +109,7 @@ ul{
     font-size: x-large;
   }
   .logo2{
-    background-image: url("/pexels-markus-spiske-1089438.jpg");
+    background-image: url("./pexels-markus-spiske-1089438.jpg");
     background-size: contain;
     font-size: 400%;
     padding: 20px;
