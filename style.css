@@ -71,7 +71,7 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 700px;
+    height: 100vh;
     background-image: url("./pexels-skylar-kang-6044198.jpg");
     background-size: 100% 100%;
   }
